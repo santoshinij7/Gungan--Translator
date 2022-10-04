@@ -43,17 +43,18 @@ body {
   background-color: var(--primary-color);
   border-color: var(--third-color);
   border-radius: 12px;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 10px;
   margin: 1rem;
   transition-duration: 0.4s;
   cursor: pointer;
 }
 .button:hover {
-  background-color: var(--primary-color);
+  background-color: var(--secondary-color);
   color: var(--third-color);
+  font-size: 10px;
 }
 .output-header {
   font-size: 20px;
