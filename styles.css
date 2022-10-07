@@ -53,7 +53,7 @@ body {
 }
 .button:hover {
   background-color: var(--secondary-color);
-  color: var(--third-color);
+  color: white;
   font-size: 10px;
 }
 .output-header {
